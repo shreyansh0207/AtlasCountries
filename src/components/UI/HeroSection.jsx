@@ -6,7 +6,7 @@ export const HeroSection = () => {
       <div className="container grid grid-two-cols">
         <div className="hero-content">
           <h1 className="heading-xl">
-            Uncover the Globel's Hidden Gems.
+            Uncover the Globe's Hidden Gems.
           </h1>
           <p className="paragraph">
           Find details about every country. Explore cultures, histories, and more with our easy-to-use search and filter tools.
